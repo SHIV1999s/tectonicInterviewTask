@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://cdn.shopify.com",
+    "status": 200
+  },
+  {
+    "url": "https://dxtqjdp4acos7.cloudfront.net",
+    "status": 403
+  },
+  {
+    "url": "https://c.clarity.ms",
+    "status": 403
+  },
+  {
+    "url": "https://c.bing.com",
+    "status": 403
+  },
+  {
+    "url": "https://includ.com",
+    "status": 200
+  },
+  {
+    "url": "https://aspiringbrandsprivatelimited-9ef0ea90596a1d217170072.freshchat.com/widget/css/widget.css?t=1733674343087",
+    "status": 200
+  },
+  {
+    "url": "https://cdn.shopify.com/s/files/1/0646/0211/2255/files/tt-faster-shopify.css?v=1726067754",
+    "status": 200
+  }
+]
